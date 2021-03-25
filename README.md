@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Arik Chakma - aka Arikko 👋
 
-<!--
-**arikchakma/arikchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/imarikchakma?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimarkchakma&screen_name=imarikchakma)
 
-Here are some ideas to get you started:
+# Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Student of Dhaka Commerece College aka DCC. Along w/ my studies I'm a developer by profession and filmmaker by passion!!
+
+- 🔭 I just launched my first vs code theme!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 📷 Planning to do something new this year.
+- ⚡ Fun fact: I love to cook and flirt.
