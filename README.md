@@ -4,7 +4,7 @@
 
 # Who am I?
 
-Hey, It's Arik Chakma aka Arikko, frontend engineer at eetpixel. Along w/ my studies I'm a developer by profession and filmmaker by passion!!
+Hey, It's Arik Chakma aka Arikko, frontend developer at eetpixel. Along w/ my studies I'm a developer by profession and filmmaker by passion!!
 
 - 🔭 I just launched my first vs code theme!
 - 🌱 I’m currently learning everything 🤣
