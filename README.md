@@ -6,8 +6,8 @@
 
 Hey, It's Arik Chakma aka Arikko, frontend developer at eetpixel. Along w/ my studies I'm a developer by profession and filmmaker by passion!!
 
-- 🔭 I just launched my first vs code theme!
+- 🔭 I just launched my websites's V1.0.0
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📷 Planning to do something new this year.
-- ⚡ Fun fact: I love to cook and flirt.
+- ⚡ Fun fact: I love to cook and creating content.
